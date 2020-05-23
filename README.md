@@ -1,6 +1,6 @@
 # dark_microphone_app
 
-![Pet App UI](https://user-images.githubusercontent.com/16510597/82732855-31f49d00-9d3a-11ea-9434-8211ab6b0354.png)
+![Pet App UI](https://user-images.githubusercontent.com/16510597/82733059-7c2a4e00-9d3b-11ea-81f8-79f3b67f494e.png)
 
 A new Flutter project.
 
