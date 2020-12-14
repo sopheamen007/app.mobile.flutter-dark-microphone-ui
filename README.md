@@ -1,4 +1,7 @@
-# dark_microphone_app
+# Dark Microphone App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/LhAdx_Qud-w)
 
 ![Pet App UI](https://user-images.githubusercontent.com/16510597/82733059-7c2a4e00-9d3b-11ea-81f8-79f3b67f494e.png)
 
